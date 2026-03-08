@@ -11,14 +11,14 @@
 
 🔹 **Minecraft-Plugin-Entwicklung** (Spigot, Paper, Bukkit)  
 🔹 **Cybersecurity-Lernender** – Interesse an Netzwerksicherheit & Penetration Testing  
-🔹 **Eigene Hosting-Plattform:** [🌎 dinohost.online](https://dinohost.online)  
+🔹 **Eigene Hosting-Plattform:** [🌎 nyvex.org](https://nyvex.org)  
 🔹 **Discord-Bot-Hosting & Lavalink auf Pterodactyl**  
 🔹 **Autofan** – Fahre einen **BMW mit Bastuck-Sportauspuff**  
 
 ---
 
-## 🔥 Aktuelles Projekt: AI Dungeons  
-Ein **Minecraft-Plugin**, das **prozedural generierte Dungeons** mit **KI-gesteuerten Quests & Bosskämpfen** kombiniert!  
+## 🔥 Aktuelles Projekt: AI plugin builder  
+Ein **Minecraft-Plugin generator**, das **prozedural generierte Plugins** mit **KI &cleanem code** kombiniert!  
 ✔ **Dynamische Bosskämpfe mit intelligenter KI**  
 ✔ **Loot-System mit seltenen Items & Anpassungsmöglichkeiten**  
 ✔ **Fallen, Rätsel & herausfordernde Events**  
@@ -66,7 +66,7 @@ Ein **Minecraft-Plugin**, das **prozedural generierte Dungeons** mit **KI-gesteu
     <tbody>
         <tr>
             <td>🌎 Website</td>
-            <td><a href="https://dinohost.online">dinohost.online</a></td>
+            <td><a href="https://nyvex.org">nyvex.org</a></td>
             <td>Mein Hosting-Dienst</td>
         </tr>
         <tr>
@@ -76,7 +76,7 @@ Ein **Minecraft-Plugin**, das **prozedural generierte Dungeons** mit **KI-gesteu
         </tr>
         <tr>
             <td>🐦 Twitter</td>
-            <td><a href="https://twitter.com/04Hamudi">DeinTwitterHandle</a></td>
+            <td><a href="https://twitter.com/04Hamudi">X account</a></td>
             <td>Updates & Ankündigungen</td>
         </tr>
     </tbody>
